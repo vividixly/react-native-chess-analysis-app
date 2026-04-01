@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "chess-analysis",
-    "slug": "chess-analysis",
+    "name": "chess-analysis-app",
+    "slug": "chess-analysis-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
